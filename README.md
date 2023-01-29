@@ -19,7 +19,14 @@ Full Stack Developer • he/him <br>• ❤️HTML,CSS,JS,React,MongoDB,Express,
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Tathagat017)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Dev Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+let qouted = "";
+fetch('https://animechan.vercel.app/api/random')
+    .then(response => response.json())
+    .then(quote => {console.log(quote)
+   qouted=qoute })
+
+![](qouted?type=horizontal&theme=radical)
 
 ### 😂 Dev Meme of the day
 
