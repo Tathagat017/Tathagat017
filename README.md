@@ -18,13 +18,13 @@ Full Stack Developer • he/him <br>• ❤️HTML,CSS,JS,React,MongoDB,Express,
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Tathagat017)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tathagat017&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://scontent.fblr2-2.fna.fbcdn.net/v/t39.30808-6/267140802_4913151308737063_7245644770090542959_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=108&ccb=1-7&_nc_sid=8024bb&_nc_ohc=-ZTVNVFqYywAX8NA-bW&_nc_ht=scontent.fblr2-2.fna&oh=00_AfBvSxNHTRRfROka4AxeQKNMhbBeJyjqIo-YpDPT2DfC4A&oe=63DC38F3)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
