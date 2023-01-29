@@ -20,13 +20,9 @@ Full Stack Developer • he/him <br>• ❤️HTML,CSS,JS,React,MongoDB,Express,
 
 ### ✍️ Dev Quote of the day
 
-let qouted = "";
-fetch('https://animechan.vercel.app/api/random')
-    .then(response => response.json())
-    .then(quote => {console.log(quote)
-   qouted=qoute })
 
-![](qouted?type=horizontal&theme=radical)
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Quotes.png?type=horizontal&theme=radical)
 
 ### 😂 Dev Meme of the day
 
