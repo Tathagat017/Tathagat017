@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer • he/him <br>• ❤️HTML,CSS,JS,React,MongoDB,Express,Bootstrap5<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Backpacking<br>• 🌱 Gardening <br>• Lifelong Learner
+Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• Lifelong Learner
 
 
 ## 🌐 Socials:
