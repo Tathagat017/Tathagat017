@@ -18,10 +18,10 @@ Full Stack Developer • he/him <br>• ❤️HTML,CSS,JS,React,MongoDB,Express,
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Tathagat017)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Dev Quote
+### ✍️ Dev Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme of the day
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
