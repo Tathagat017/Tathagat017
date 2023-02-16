@@ -21,6 +21,6 @@ Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning A
 
 ### 😂 Dev Meme of the day
 
-![]([https://drive.google.com/file/d/168-pcfHi5-kc8yDGLXBHj-fJ6rPIcq-D/view?usp=sharing](https://miro.medium.com/v2/resize:fit:720/format:webp/1*YGj8CcU1WjWLolNa161Mlw.jpeg))
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*YGj8CcU1WjWLolNa161Mlw.jpeg)
 
 
