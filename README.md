@@ -15,12 +15,7 @@ Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning A
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tathagat017&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Tathagat017)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Dev Quote of the day
-
-
 
 ![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Quotes.png?type=horizontal&theme=radical)
 
