@@ -19,7 +19,7 @@ Portfolio : (https://tathagat017.github.io/)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Tathagat017&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tathagat017&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote of the day
 
