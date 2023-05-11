@@ -3,7 +3,7 @@
 ## Greetings visitor 👋🏽, My name is Tathagat ! It's a pleasure to make your acquaintance. 
 
 # 💫 About Me:
-### Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• Learning never stops 
+### Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• 📕Learning never stops 
 
 ### As a full stack web developer, I have a passion for tinkering and creating intuitive and useful things on internet . 
 
