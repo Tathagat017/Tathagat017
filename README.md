@@ -14,9 +14,12 @@ Portfolio : (https://tathagat017.github.io/)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Tathagat017&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tathagat017&theme=monokai&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tathagat017&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=tathagat017&theme=monokai)
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Tathagat017&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
