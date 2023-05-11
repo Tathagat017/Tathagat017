@@ -1,6 +1,6 @@
 ![](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1683763786~exp=1683764386~hmac=41b6842ced62f8805190c70d5676e3c2af098faf4d127569ee9774389f4eea7a)
 
-## Hello 👋🏽, My Name is Tathagat. I am Full stack web developer who knows tinkering and make things on internet that last. Puzzles, challenges and coffee give me same amount of caffenine :) 
+## Hello 👋🏽, My Name is Tathagat. I am Full stack web developer and love tinkering. I enjoy making things on internet that are intutive and have utility. Puzzles, challenges and coffee give me same amount of caffenine :) 
 
 
 # 💫 About Me:
