@@ -1,8 +1,8 @@
+![](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1683763786~exp=1683764386~hmac=41b6842ced62f8805190c70d5676e3c2af098faf4d127569ee9774389f4eea7a)
+
 # 💫 About Me:
 Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• Learning never stops 
 
-
-![](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1683763680~exp=1683764280~hmac=858b999981e0cc9ac6daae2039df9fb6109c0f092d88899e84514c0bb9da295a)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tathagat-tathagat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tathagat017) 
