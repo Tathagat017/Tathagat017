@@ -1,6 +1,6 @@
 # 💫 About Me:
 Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• Learning never stops 
-![]([https://i.gifer.com/6M8G.gif](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=2000))
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Quotes.png?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tathagat-tathagat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tathagat017) 
