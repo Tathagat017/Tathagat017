@@ -2,14 +2,12 @@
 
 ## Greetings visitor 👋🏽, My name is Tathagat ! It's a pleasure to make your acquaintance. 
 
-## As a full stack web developer, I have a passion for tinkering and creating intuitive and useful things on internet . 
-
-### I thrive on the stimulation provided by puzzles,games and challenges, and a good cup of coffee is the perfect accompaniment to fuel my endeavors. 
-
-
 # 💫 About Me:
 Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• Learning never stops 
 
+### As a full stack web developer, I have a passion for tinkering and creating intuitive and useful things on internet . 
+
+### I thrive on the stimulation provided by puzzles,games and challenges, and a good cup of coffee is the perfect accompaniment to fuel my endeavors. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tathagat-tathagat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tathagat017) 
