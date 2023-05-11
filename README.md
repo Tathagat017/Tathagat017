@@ -1,6 +1,6 @@
 # 💫 About Me:
 Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• Learning never stops 
-
+![img](https://i.gifer.com/6M8G.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tathagat-tathagat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tathagat017) 
@@ -28,3 +28,4 @@ Portfolio : (https://tathagat017.github.io/)
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*YGj8CcU1WjWLolNa161Mlw.jpeg)
 ### Address: Bengaluru, Karnataka, India
 
+[![](https://visitcount.itsvg.in/api?id=Tathagat017&icon=8&color=12)](https://visitcount.itsvg.in)
