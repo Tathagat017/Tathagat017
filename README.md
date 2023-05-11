@@ -4,7 +4,7 @@
 
 ## As a full stack web developer, I have a passion for tinkering and creating intuitive and useful things on internet . 
 
-###I thrive on the stimulation provided by puzzles,games and challenges, and a good cup of coffee is the perfect accompaniment to fuel my endeavors. 
+### I thrive on the stimulation provided by puzzles,games and challenges, and a good cup of coffee is the perfect accompaniment to fuel my endeavors. 
 
 
 # 💫 About Me:
