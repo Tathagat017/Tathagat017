@@ -1,5 +1,7 @@
 # 💫 About Me:
 Full Stack Developer • he/him <br>• ❤️Uncharted waters<br>• Learning Angular <br>• 🎥Movie Buff <br>• ✈️ Wander-lust<br>• 🌱 Gardening <br>• Learning never stops 
+
+
 ![](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1683763680~exp=1683764280~hmac=858b999981e0cc9ac6daae2039df9fb6109c0f092d88899e84514c0bb9da295a)
 
 ## 🌐 Socials:
